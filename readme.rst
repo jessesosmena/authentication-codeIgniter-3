@@ -24,9 +24,9 @@ $db['default']['database'] = 'employee'; //database name
 $db['default']['dbdriver'] = 'mysql';
 
 
-Configure the .htaccess / RewriteBase property
+Configure the .htaccess / RewriteBase value
 
-RewriteBase / write here the name of your folder
+RewriteBase / write here the name of the folder
 
 start XAMPP browse to localhost/ name of the folder
 

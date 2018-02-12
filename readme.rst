@@ -27,7 +27,8 @@ RewriteBase / write here the name of your folder
 
 start XAMPP browse to localhost/ name of the folder
 
-
+By the way this project was made back in 2015 i just include it to this new account
+to have records.
 
 
 ###################

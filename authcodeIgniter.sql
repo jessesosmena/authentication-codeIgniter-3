@@ -56,9 +56,6 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `username`, `email`, `password`, `resetkey`, `created_at`) VALUES
-(179, 'Test', 'Test.stripe@yandex.com', '7c4a8d09ca3762af61e59520943dc26494f8941b', '', '2018-02-11 09:18:06');
-
 --
 -- Indexes for dumped tables
 --

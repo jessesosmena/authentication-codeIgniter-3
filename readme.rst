@@ -9,7 +9,10 @@ Configure and Setup the CodeIgniter Environment
 * Open the application/config/config.php.
 * We need the codeigniter application to point to the proper base url. For that set the "base_url" array value to " " or to the base url path.
 
+Import sql file to phpmyadmin name of the file is codeIgniter.sql located on the root folder
+
 Connect to Database in CodeIgniter
+
 application/config/database.php file.
 
 Here are the connectivity details for MySQL Database.
@@ -27,7 +30,7 @@ RewriteBase / write here the name of your folder
 
 start XAMPP browse to localhost/ name of the folder
 
-By the way this project was made back in 2015 i just include it to this new account
+This project was made back in 2015 i include it to this new account
 to have records.
 
 

@@ -9,7 +9,7 @@ Configure and Setup the CodeIgniter Environment
 * Open the application/config/config.php.
 * We need the codeigniter application to point to the proper base url. For that set the "base_url" array value to " " or to the base url path.
 
-Import sql file to phpmyadmin name of the file is codeIgniter.sql located on the root folder
+Import sql file to phpmyadmin name of the file is authcodeIgniter.sql located on the root folder
 
 Connect to Database in CodeIgniter
 

@@ -6,7 +6,7 @@ First git clone this repository extract its contents to the "htdocs" folder of X
 
 Configure and Setup the CodeIgniter Environment
 
-* Open the applicaion/config/config.php.
+* Open the application/config/config.php.
 * We need the codeigniter application to point to the proper base url. For that set the "base_url" array value to " " or to the base url path.
 
 Connect to Database in CodeIgniter

@@ -24,7 +24,7 @@ $db['default']['database'] = 'employee'; //database name
 $db['default']['dbdriver'] = 'mysql';
 
 
-Configure the .htaccess / RewriteBase value
+Configure the .htaccess / RewriteBase array value
 
 RewriteBase / write here the name of the folder
 

@@ -2,14 +2,15 @@ Demo: https://projectcodeigniter.000webhostapp.com/
 
 Install CodeIgniter in XAMPP
 
-First git clone this repository extract its contents to the "htdocs" folder of XAMPP. Rename the folder to some application name such as "ci_auth" or any.
+# Get the project
+git clone the repo extract its contents to the "htdocs" folder of XAMPP. Rename the folder to some application name such as "ci_auth" or any.
 
 Configure and Setup the CodeIgniter Environment
 
 * Open the application/config/config.php.
-* We need the codeigniter application to point to the proper base url. For that set the "base_url" array value to " " or to the base url path.
+* We need the codeigniter application to point to the proper base url. For that set the "base_url" array value to " "/blank or to the base url path.
 
-Configure sql file name authcodeIgniter.sql located on the root folder import to phpmyadmin databases.
+Set sql file name authcodeIgniter.sql located at the root folder import that to localhost/phpmyadmin databases.
 
 Connect to Database in CodeIgniter
 
@@ -23,12 +24,11 @@ $db['default']['password'] = 'mysql_password'; //mysql password
 $db['default']['database'] = 'employee'; //database name
 $db['default']['dbdriver'] = 'mysql';
 
+Set .htaccess / RewriteBase array value
 
-Configure the .htaccess / RewriteBase array value
+RewriteBase / name of the project folder
 
-RewriteBase / write here the name of the folder
-
-start XAMPP browse to localhost/ name of the folder
+Start XAMPP browse to localhost/ name of the project folder
 
 
 

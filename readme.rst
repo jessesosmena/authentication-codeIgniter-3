@@ -30,7 +30,6 @@ RewriteBase / write here the name of the folder
 
 start XAMPP browse to localhost/ name of the folder
 
-This app was made in 2015
 
 
 ###################

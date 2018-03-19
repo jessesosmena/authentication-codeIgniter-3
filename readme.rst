@@ -1,4 +1,4 @@
-Demo: https://projectcodeigniter.000webhostapp.com/
+#Demo: https://projectcodeigniter.000webhostapp.com/
 
 Install CodeIgniter in XAMPP
 

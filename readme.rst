@@ -1,21 +1,21 @@
 ###################
 Demo: https://projectcodeigniter.000webhostapp.com/
 ###################
-
+###################
 Install CodeIgniter in XAMPP
-
+###################
 # Get the project
 git clone this repo extract its contents to "htdocs" folder of XAMPP. Rename the folder to some application name such as "ci_auth" or any.
-
+###################
 Configure and Setup the CodeIgniter Environment
-
+###################
 * Open the application/config/config.php.
 * We need the codeigniter application to point to the proper base url. For that set its value to ''/empty or base url path.
 
 Set sql file name authcodeIgniter.sql located at the root folder import that to localhost/phpmyadmin databases.
-
+###################
 Connect to Database in CodeIgniter
-
+###################
 application/config/database.php file.
 
 Here are the connectivity details for MySQL Database.
